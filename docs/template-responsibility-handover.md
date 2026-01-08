@@ -158,9 +158,12 @@ _Key dependencies and their status_
 ## Follow-up Plan
 
 **Check-in Schedule:**
-- Week 1: _[Date/Time]_ - Initial check-in on questions and issues
-- Week 2: _[Date/Time]_ - Progress review and support
-- Month 1: _[Date/Time]_ - Final check-in and closure
+- **Week 1** (_[Date/Time]_): Initial check-in on questions and issues
+  - Success criteria: Incoming person has access to all systems and understands immediate priorities
+- **Week 2** (_[Date/Time]_): Progress review and support
+  - Success criteria: Incoming person is actively working on key responsibilities with minimal support
+- **Month 1** (_[Date/Time]_): Final check-in and closure
+  - Success criteria: Incoming person is fully autonomous in the role and handover is complete
 
 **Support Availability:**
 - Available for questions via _[communication channel]_

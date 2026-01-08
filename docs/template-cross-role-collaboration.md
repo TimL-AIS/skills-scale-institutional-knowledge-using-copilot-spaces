@@ -318,24 +318,24 @@ When handoffs encounter issues, follow this escalation path:
 
 ## Accountability Matrix (RACI)
 
-Use this matrix to clarify accountability for key activities:
+Use this matrix to clarify accountability for key activities. Note: **Accountable (A)** must be a single role to ensure clear ownership.
 
 - **R** = Responsible (does the work)
-- **A** = Accountable (ultimate ownership, single point)
+- **A** = Accountable (ultimate ownership, single point - only one A per activity)
 - **C** = Consulted (input before decision)
 - **I** = Informed (notified after decision)
 
 | Activity | PM | PdM | PO | Dev | QC | CM | AC | UX |
 |----------|----|----|----|----|----|----|----|----|
 | Define product vision | C | A | R | I | I | I | I | C |
-| Prioritize backlog | I | C | A/R | C | I | I | I | C |
+| Prioritize backlog | I | C | A | C | I | I | I | C |
 | Sprint planning | C | I | R | R | C | I | A | C |
-| Feature development | I | I | C | A/R | C | I | I | C |
-| Quality testing | C | I | C | C | A/R | I | I | I |
-| Acceptance review | I | I | A/R | I | C | I | I | C |
-| Release coordination | A/R | C | C | R | C | R | I | I |
-| Retrospective | R | I | C | C | C | I | A | C |
-| Process improvement | C | I | I | C | C | C | A/R | I |
+| Feature development | I | I | C | A | C | I | I | C |
+| Quality testing | C | I | C | R | A | I | I | I |
+| Acceptance review | I | I | A | I | C | I | I | C |
+| Release coordination | A | C | C | R | C | R | I | I |
+| Retrospective | R | I | C | R | C | I | A | C |
+| Process improvement | C | I | I | C | C | C | A | I |
 
 **Legend:**
 - PM = Project Manager

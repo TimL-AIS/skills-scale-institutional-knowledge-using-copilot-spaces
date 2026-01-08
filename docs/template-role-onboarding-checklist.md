@@ -95,6 +95,8 @@ Ensure new team members understand their role, responsibilities, and how they in
 
 ## First Week Goals
 
+**Target completion: Within first 5 business days**
+
 - [ ] Complete all general onboarding items
 - [ ] Complete role-specific onboarding items
 - [ ] Attend all relevant ceremonies for your role
@@ -106,6 +108,10 @@ Ensure new team members understand their role, responsibilities, and how they in
 ---
 
 ## 30-Day Check-in
+
+**Schedule for end of first month**
+
+**Success criteria:** New team member feels confident in their role and understands team workflows.
 
 - [ ] Confirm understanding of role responsibilities
 - [ ] Review effectiveness of cross-role collaboration
