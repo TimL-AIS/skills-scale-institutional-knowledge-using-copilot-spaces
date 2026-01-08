@@ -29,9 +29,7 @@ _List all active work items, their status, and priority_
 ### Recently Completed
 _Key deliverables or milestones completed in the last sprint/period_
 
-- 
-- 
-- 
+- [Add completed items here] 
 
 ### Pending/Blocked Items
 _Items waiting on dependencies, approvals, or external factors_
@@ -48,9 +46,7 @@ _Items waiting on dependencies, approvals, or external factors_
 ### Daily/Weekly Activities
 _Recurring tasks and their cadence_
 
-- 
-- 
-- 
+- [Add daily/weekly activities here] 
 
 ### Key Stakeholders
 _People to communicate with regularly and why_
@@ -93,9 +89,7 @@ _Links to key documents and their purpose_
 ### Tribal Knowledge
 _Unwritten information, workarounds, or context that's important to know_
 
-- 
-- 
-- 
+- [Add tribal knowledge, workarounds, or important context here] 
 
 ---
 
